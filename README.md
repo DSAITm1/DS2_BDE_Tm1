@@ -1,6 +1,6 @@
 # DS2 BDE Team 1 - End-to-End Data Pipeline Project
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-blue)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-Database-orange)](https://en.wikipedia.org/wiki/SQL)
 [![dbt](https://img.shields.io/badge/dbt-ELT-red)](https://www.getdbt.com/)
 [![Great Expectations](https://img.shields.io/badge/Great%20Expectations-Data%20Quality-green)](https://greatexpectations.io/)
